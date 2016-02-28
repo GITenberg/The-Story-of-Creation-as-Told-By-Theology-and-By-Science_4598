@@ -1,0 +1,28 @@
+_repo: The-Story-of-Creation-as-Told-By-Theology-and-By-Science_4598
+creator:
+  author:
+    agent_name: Ackland, T. S. (Thomas Suter)
+    alias: Ackland, Thomas Suter
+    birthdate: 1817
+    deathdate: 1892
+    gutenberg_agent_id: '1516'
+    url: http://www.gutenberg.org/2009/agents/1516
+description: ''
+gutenberg_issued: '2003-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4598'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Creation'
+- !lcc 'BS'
+- !lcsh 'Religion and science'
+- !lcsh 'Bible and science'
+- !lcc 'QH'
+tableOfContents: The case stated -- Difficulties in geology -- Difficulties in astronomy
+  -- Difficulties in physiology -- Science a help to interpretation.
+title: The Story of Creation as Told By Theology and By Science
+url: http://www.gutenberg.org/ebooks/4598
