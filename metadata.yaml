@@ -1,5 +1,5 @@
 _repo: The-Story-of-Creation-as-Told-By-Theology-and-By-Science_4598
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -28,6 +28,7 @@ subjects:
 - !lcsh 'Religion and science'
 - !lcsh 'Bible and science'
 - !lcc 'QH'
+- GITenberg
 tableOfContents: The case stated -- Difficulties in geology -- Difficulties in astronomy
   -- Difficulties in physiology -- Science a help to interpretation.
 title: The Story of Creation as Told By Theology and By Science
